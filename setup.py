@@ -13,9 +13,9 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='http://git.coh.org:7990/users/nbyers/repos/test_python_package',
     project_urls = {
-        "Bug Tracker": "http://git.coh.org:7990/users/nbyers/repos/test_python_package/issues"
+        "Bug Tracker": "https://github.com/NateByers/test_python_package/issues"
     },
     license='MIT',
-    packages=['test_python_package']
+    packages=['test_python_package'],
     install_requires=['os']
 )
