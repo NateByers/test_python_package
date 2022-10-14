@@ -16,6 +16,5 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/NateByers/test_python_package/issues"
     },
     license='MIT',
-    packages=['test_python_package'],
-    install_requires=['os']
+    packages=['test_python_package']
 )
